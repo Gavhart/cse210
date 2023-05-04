@@ -2,7 +2,7 @@ const form = document.getElementById('event-form');
 const repoName = 'week2';
 const ownerName = 'gavhart';
 const token = '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';
-const baseUrl = 'https://api.github.com';
+const baseUrl = 'https://gavhart.github.io/cse210/week2/journal.html';
 
 const questions = [
   ['What happened today?', 'event'],
@@ -47,6 +47,10 @@ form.addEventListener('submit', async (e) => {
 
   const data = `Date: ${dateString}\n${questionText}: ${eventText}\nHow do you feel?: ${moodText}\n\n`;
 
-  // create a new file in the GitHub repository
-  const filename = `${dateString}.txt`;
+// create a new file in the GitHub repository
+const filename = `${dateString}.txt`;
+const path = `/${filename}`;
+const url = `${baseUrl}/repos/${ownerName}/${repoName}/contents${path}`;
+const content = btoa(data);
+
 });
