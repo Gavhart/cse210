@@ -1,7 +1,7 @@
 const form = document.getElementById('event-form');
-const repoName = 'your-repo-name';
+const repoName = 'week2';
 const ownerName = 'gavhart';
-const token = 'your-personal-access-token';
+const token = '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';
 const baseUrl = 'https://api.github.com';
 
 const questions = [
@@ -49,3 +49,4 @@ form.addEventListener('submit', async (e) => {
 
   // create a new file in the GitHub repository
   const filename = `${dateString}.txt`;
+});
