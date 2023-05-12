@@ -1,0 +1,15 @@
+/Users/gavinhart/Desktop/cse210/prove/Develop02/bin/Debug/net7.0/Develop02
+/Users/gavinhart/Desktop/cse210/prove/Develop02/bin/Debug/net7.0/Develop02.deps.json
+/Users/gavinhart/Desktop/cse210/prove/Develop02/bin/Debug/net7.0/Develop02.runtimeconfig.json
+/Users/gavinhart/Desktop/cse210/prove/Develop02/bin/Debug/net7.0/Develop02.dll
+/Users/gavinhart/Desktop/cse210/prove/Develop02/bin/Debug/net7.0/Develop02.pdb
+/Users/gavinhart/Desktop/cse210/prove/Develop02/obj/Debug/net7.0/Develop02.csproj.AssemblyReference.cache
+/Users/gavinhart/Desktop/cse210/prove/Develop02/obj/Debug/net7.0/Develop02.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gavinhart/Desktop/cse210/prove/Develop02/obj/Debug/net7.0/Develop02.AssemblyInfoInputs.cache
+/Users/gavinhart/Desktop/cse210/prove/Develop02/obj/Debug/net7.0/Develop02.AssemblyInfo.cs
+/Users/gavinhart/Desktop/cse210/prove/Develop02/obj/Debug/net7.0/Develop02.csproj.CoreCompileInputs.cache
+/Users/gavinhart/Desktop/cse210/prove/Develop02/obj/Debug/net7.0/Develop02.dll
+/Users/gavinhart/Desktop/cse210/prove/Develop02/obj/Debug/net7.0/refint/Develop02.dll
+/Users/gavinhart/Desktop/cse210/prove/Develop02/obj/Debug/net7.0/Develop02.pdb
+/Users/gavinhart/Desktop/cse210/prove/Develop02/obj/Debug/net7.0/Develop02.genruntimeconfig.cache
+/Users/gavinhart/Desktop/cse210/prove/Develop02/obj/Debug/net7.0/ref/Develop02.dll
