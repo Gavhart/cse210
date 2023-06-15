@@ -2,7 +2,7 @@ using System;
 
 class ScriptureManagement
 {
-    private string _fileName = "Scriptures.txt";
+    private string _fileName = "Scripturereferance.txt";
     private List<string> _listReferences = new List<string>();
     private List<string> _listScriptures = new List<string>();
     private List<string> _tempList = new List<string>();
